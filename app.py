@@ -125,14 +125,10 @@ st.markdown(
 )
 
 st.markdown(
-    '<div class="main-title">Generador de texto con Unicode invisible</div>',
+    '<div class="main-title">To Text</div>',
     unsafe_allow_html=True
 )
 
-st.markdown(
-    '<div class="subtitle">Inserta caracteres invisibles dentro de un texto y copia el resultado sin perderlo.</div>',
-    unsafe_allow_html=True
-)
 
 col_btn1, col_btn2 = st.columns(2)
 
