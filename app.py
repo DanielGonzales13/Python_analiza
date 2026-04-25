@@ -240,6 +240,3 @@ Longitud final: {len(st.session_state.resultado)}
             """.strip()
         )
 
-    st.info(
-        "Visualmente el texto puede parecer igual, pero internamente contiene caracteres Unicode invisibles."
-    )
